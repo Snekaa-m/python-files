@@ -1,4 +1,0 @@
-#boolean operation
-n1=int(int('enter 1st number')
-n2=int(int('enter 2nd number')
-print(n1==n2)

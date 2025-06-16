@@ -1,0 +1,6 @@
+matrix=[[10,20,30],
+        [3,4,5],
+        [7,2,9]]
+print(matrix)
+#access element at `row 2,colkom 3
+print(matrix [0][2])
